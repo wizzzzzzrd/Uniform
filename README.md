@@ -1,2 +1,2 @@
 # Uniform
-Aplicacion web para venta de unifomes
+Aplicacion web para venta de unifomes.
